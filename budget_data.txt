@@ -1,0 +1,6 @@
+Salary,500.0,Income
+Salary,700.0,Income
+food,300.0,Expense
+oil,10.0,Expense
+food,50.0,Expense
+oil,50000.0,Expense
